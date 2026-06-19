@@ -1,5 +1,7 @@
 # FROM — Survive &amp; Solve
 
+![A moonlit view of the town, ringed by endless forest](assets/aerial.jpg)
+
 A browser-based mystery-survival game inspired by the TV show *FROM*. Built as an unofficial fan tribute and portfolio piece.
 
 Solve a mystery by day, survive the monsters by night. Each level plays differently.
